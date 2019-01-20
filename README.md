@@ -1,12 +1,12 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
+This is a curated list of free courses from reputable universities like Harvard, MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science degree, minus general education.
 
 ## Computer Science Basics
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none
+[CS50's Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
 ## Programming
